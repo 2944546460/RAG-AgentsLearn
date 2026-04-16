@@ -22,3 +22,6 @@ for chunk in response:
         end=" ",  #每一段之间用空格隔开
         flush=True  #强制刷新输出
     )
+
+
+test=list()
